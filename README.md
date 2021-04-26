@@ -21,6 +21,15 @@ innovative developments.
 - RabbitMQ
  
 ## Social media
-- <a href="https://www.linkedin.com/in/marianoecheverria/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="/images/linkedin.png"></a></a>
-- <a href="https://www.facebook.com/maro.echeverria"><img alt="Facebook" title="Facebook" height="32" width="32" src="/images/facebook.png"></a></a>
-- <a href="https://www.instagram.com/maroecheverria"><img alt="Instagram" title="Instagram" height="32" width="32" src="/images/instagram-png" /></a>
+<a href="https://www.linkedin.com/in/marianoecheverria/">
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="/images/linkedin.png">
+</a>
+<br />
+<a href="https://www.facebook.com/maro.echeverria">
+    <img alt="Facebook" title="Facebook" height="32" width="32" src="/images/facebook.png">
+</a>
+<br />
+<a href="https://www.instagram.com/maroecheverria">
+    <img alt="Instagram" title="Instagram" height="32" width="32" src="/images/instagram.png" />
+</a>
+<br />
