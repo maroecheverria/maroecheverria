@@ -7,18 +7,20 @@ innovative developments.
 ## Languages & Tools
 - PHP
 - Javascript
-- React
-- HTML
-- CSS
+- Node.js
+- Python
 - C#
 - VB
-- Python
+- HTML
+- CSS
+- React
 - Redis
 - Docker
 - Git
 - MySQL
 - MongoDB
 - RabbitMQ
+- Elasticsearch
  
 ## Social media
 <a href="https://www.linkedin.com/in/marianoecheverria/">
